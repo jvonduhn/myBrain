@@ -9,6 +9,7 @@ public class Ann implements AttributeListener{
 	private List<Neuron> neuronList;
 	private DbHelper db=null;
 	private TextView  logger = null;
+	
 
 	public Ann(Context context){
 
